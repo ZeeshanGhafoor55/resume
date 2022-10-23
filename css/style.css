@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Oxygen&family=Playfair+Display&family=Source+Sans+Pro&display=swap');
+body{
+  font-family: 'Baloo 2', cursive;
+font-family: 'Oxygen', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.my-color{
+  color: #1dbf73;
+}
+
+/* Hero Section */
+.primary-bg{
+  background-color: lightgray;
+}
+img:hover{
+  background-color: #1dbf73;
+}
+.img-outline{
+  outline: 3px solid #1dbf73;
+}
+/* Education */
+.fs-x-small{
+  font-size: x-small;
+}
+.fs-small{
+  font-size:smaller;
+}
+/* Hobbies */
+.interest-bg{
+ background-color: #1dbf73;
+}
+/* Skills */
+.progress-bar{
+  background-color: #1dbf73 !important;
+}
+.w-90{
+  width: 90% !important;
+}
+.w-80{
+  width: 80% !important;
+}
+.w-70{
+  width: 70% !important;
+}
+.w-60{
+  width: 60% !important;
+}
+.w-50{
+  width: 50% !important;
+}
+.w-40{
+  width: 40% !important;
+}
+.w-30{
+  width: 30% !important;
+}
+
+/* Social Icons */
+.social-icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  bottom: -30px;
+  right: 90px;
+}
+.social-icon{
+  width: 40px;
+}
